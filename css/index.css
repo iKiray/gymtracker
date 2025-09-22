@@ -1,0 +1,12 @@
+h2 {
+    text-align: center;
+    color: white;
+}
+
+form {
+    text-align: center;
+    
+    label {
+        color: white;
+    }
+}
